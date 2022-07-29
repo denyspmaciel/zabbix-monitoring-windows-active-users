@@ -1,3 +1,3 @@
-# TEMPLATE CRIADO PARA MONITORAMENTO DE QUANTIDADE DE USUÁRIOS LOGADOS EM UM SERVIDOR WINDOWS
+# Template para monitoramento de usuários ativos em um Servidor Windows
 
 Versão de Zabbix: 6.0
