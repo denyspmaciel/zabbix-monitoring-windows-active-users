@@ -5,7 +5,7 @@
 
 # Explicação
 
-O template basicamente consiste de um script que ficará no servidor Windows. Esse script tem a função de verificar quantos usuários estão ativos no servidor Windows, e retornar a quantidade de usuários para o Zabbix.
+O template basicamente consiste de um script que ficará no host de destino. Esse script tem a função de verificar quantos usuários estão ativos no servidor Windows, e retornar a quantidade de usuários para o Zabbix.
 
 # Setup
 
