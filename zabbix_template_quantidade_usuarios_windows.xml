@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zabbix_export>
+    <version>6.0</version>
+    <date>2022-07-29T15:19:22Z</date>
+    <groups>
+        <group>
+            <uuid>7df96b18c230490a9a0a9e2307226338</uuid>
+            <name>Templates</name>
+        </group>
+    </groups>
+    <templates>
+        <template>
+            <uuid>a666695aabcb49fb8e0fb2fa3320f395</uuid>
+            <template>F13 template quantidade de usuarios ativos Windows</template>
+            <name>F13 template quantidade de usuarios ativos Windows</name>
+            <groups>
+                <group>
+                    <name>Templates</name>
+                </group>
+            </groups>
+            <items>
+                <item>
+                    <uuid>5bedf85240c542dca090d312f6c50ae6</uuid>
+                    <name>Quantidade de usuários ativos</name>
+                    <key>verifyUsers</key>
+                    <delay>30m</delay>
+                    <description>Verificar a quantidade de usuários ativos em um servidor Windows</description>
+                    <tags>
+                        <tag>
+                            <tag>Application</tag>
+                            <value>Quantidade usuários</value>
+                        </tag>
+                    </tags>
+                </item>
+            </items>
+        </template>
+    </templates>
+</zabbix_export>
