@@ -1,7 +1,7 @@
 # Template para monitoramento de usuários ativos em um Servidor Windows
 
 - Versão de Zabbix: 6.0
-- :warning: No host de destino foi utilizado o Zabbix Agent 2, mas o template também funciona para a versão 1 do Agent
+- :warning: No host de destino foi utilizado o Zabbix Agent 2, mas o template também funciona para o Zabbix Agent 1
 
 # Explicação
 
